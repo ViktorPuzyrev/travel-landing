@@ -5,4 +5,5 @@
 - HTML5
 - CSS3
 - JavaScript
-- Адаптивная верстка
+- Адаптивная верстка<br />
+  [Приложение размещено на Heroku (может долго стартовать).](https://travel-landing-vp.herokuapp.com/)
