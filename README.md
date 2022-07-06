@@ -6,4 +6,4 @@
 - CSS3
 - JavaScript
 - Адаптивная верстка<br />
-  [Приложение размещено на Heroku (может долго стартовать).](https://travel-landing-vp.herokuapp.com/)
+https://viktorpuzyrev.github.io/travel-landing/
